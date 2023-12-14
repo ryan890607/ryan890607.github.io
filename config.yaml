@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Ryan Hsu."
     # subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "I'm a recent computer science graduate, possessing a robust foundation in software engineering. Proficient in C/C++ and Python, I excel in algorithms and data structures. My diverse projects include full-stack development and participation in AI competitions, showcasing problem-solving skills and innovation. With outstanding academic performance, I actively seek opportunities for a software engineering position both in the US and Taiwan (No visa is required for working in the US and Taiwan)."
     image: avatar.jpg
     bottomImage:
       enable: true
@@ -139,12 +139,12 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
+        - icon: fa-solid fa-envelope
+          url: "mailto:ryanh4w@gmail.com"
         - icon: fab fa-github
           url: https://github.com/ryan890607
         - icon: fab fa-linkedin
           url: https://linkedin.com/in/ryan-tingwei-hsu
-        - icon: fa-solid fa-envelope
-          url: "mailto:ryanh4w@gmail.com"
 
   # About
   about:
