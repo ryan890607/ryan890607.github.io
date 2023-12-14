@@ -168,6 +168,9 @@ params:
         - "HTML/CSS/JavaScript"
         - "React"
         - "GraphQL"
+        - "Git/GitHub"
+        - "Unix/Linux"
+        - "Docker"
   
   # Education
   education:
