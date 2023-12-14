@@ -143,9 +143,8 @@ params:
           url: https://example.com
         - icon: fab fa-x-twitter
           url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: fab fa-envelope
+          url: "mailto:ryanh4w@gmail.com"
 
   # About
   about:
