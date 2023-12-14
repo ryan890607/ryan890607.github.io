@@ -126,7 +126,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Ryan Hsu."
+    title: "Ryan (Ting-Wei) Hsu."
     # subtitle: "I build things for the web"
     content: "A recent computer science graduate with a strong foundation in software engineering."
     image: avatar.jpg
