@@ -164,8 +164,10 @@ params:
       items:
         - "C/C++"
         - "Python"
-        - "WebDev (HTML/CSS/JavaScript, React, GraphQL)"
         - "Java"
+        - "HTML/CSS/JavaScript"
+        - "React"
+        - "GraphQL"
   
   # Education
   education:
