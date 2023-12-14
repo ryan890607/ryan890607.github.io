@@ -142,8 +142,8 @@ params:
         - icon: fab fa-github
           url: https://github.com/ryan890607
         - icon: fab fa-linkedin
-          url: https://example.com
-        - icon: fab fa-envelope
+          url: https://linkedin.com/in/ryan-tingwei-hsu
+        - icon: fa-solid fa-envelope
           url: "mailto:ryanh4w@gmail.com"
 
   # About
