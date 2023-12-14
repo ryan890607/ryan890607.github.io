@@ -353,14 +353,13 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/ryan890607
+      linkedin: https://linkedin.com/in/ryan-tingwei-hsu
+      instagram: https://instagram.com/weebaoweewee
+      facebook: https://facebook.com/ryan.hsu.332/
 
   # List pages like blogs and posts
   listPages:
