@@ -250,13 +250,14 @@ params:
         date: "2019 - 2023"
         GPA: "3.98 out of 4.3"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          Courseworks
+          - Graduate Coursework: Web Programming, Fundamental Object Oriented Programming, Machine Learning, Natural Language Processing, Applied Deep Learning, Digital Image Processing, Introduction to Intelligent Vehicle, Introduction to FinTech.
+          - Undergraduate Coursework: Data Structures and Algorithms, Operation system, Computer Networks, Computer Architecture.
+          - Special Researches: Multimedia Information Retrieval Lab, NTU Image and Vision Lab, Machine Intelligence Lab.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          - Participated in winter service camp for 80 students from a rural elementary school in my hometown.
+          - Contributed as a member of a baseball team.
         featuredLink:
           enable: true
           name: "My academic record"
@@ -265,7 +266,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
