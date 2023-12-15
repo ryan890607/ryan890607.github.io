@@ -288,7 +288,7 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -338,10 +338,10 @@ params:
 
   #Contact
   contact:
-    enable: false
+    enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    content: If you have any question, plz email me and I'll try my best response asap!
+    email: ryanh4w@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
