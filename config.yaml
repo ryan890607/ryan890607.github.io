@@ -182,7 +182,7 @@ params:
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
@@ -250,16 +250,16 @@ params:
         date: "2019 - 2023"
         GPA: "3.98 out of 4.3"
         content: |-
-          Courseworks
+          Coursework
           - Graduate Coursework: Web Programming, Fundamental Object Oriented Programming, Machine Learning, Natural Language Processing, Applied Deep Learning, Digital Image Processing, Introduction to Intelligent Vehicle, Introduction to FinTech.
           - Undergraduate Coursework: Data Structures and Algorithms, Operation system, Computer Networks, Computer Architecture.
-          - Special Researches: Multimedia Information Retrieval Lab, NTU Image and Vision Lab, Machine Intelligence Lab.
+          - Special Research: Multimedia Information Retrieval Lab, Image and Vision Lab, Machine Intelligence Lab.
 
           Extracurricular Activities
           - Participated in winter service camp for 80 students from a rural elementary school in my hometown.
           - Contributed as a member of a baseball team.
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
 
