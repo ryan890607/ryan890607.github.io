@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Ryan (Ting-Wei) Hsu"
-  description: Text about my cool site
+  description: Owow
   # staticPath: ""  # The path to serve the static files from
   favicon: NTU_icon.jpeg
 
@@ -105,7 +105,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Ryan (Ting-Wei) Hsu" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
@@ -119,8 +119,8 @@ params:
       disableProjects: false
       disableAchievements: false
       disableContact: false
-      disableBlogs: true
-      disableGallerry: true
+      disableBlog: true
+      disableGallery: true
 
   # Hero
   hero:
@@ -257,23 +257,19 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Interactive Web Service of Food Review Forum
+        content: The web development of a food review forum, leveraging React as the primary frontend framework and Node.js as the backend framework.
+        image: NTUeat.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://www.youtube.com/watch?v=1--dj9WnDDk
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "React"
+          - "GraphQL"
+          - "Mongodb"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/ryan890607/web-programming-final
 
 
   #Contact
