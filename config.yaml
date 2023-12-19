@@ -199,12 +199,11 @@ params:
           enable: true
           content: Family Business
         content: |
-          I am currently working as a MIS engineer at [Ta Fong Steel](https://tafong.en.taiwantrade.com) in Changhua County, Taiwan. 
-          I am currently working on a project that will be used to help people find the best way to get around the city.
+          I am currently working as a MIS engineer at [Ta Fong Steel](https://tafong.en.taiwantrade.com) in Changhua County, Taiwan.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
+          - Manipulated and maintained the company's Enterprise Resource Planning (ERP) system.
+          - Collaborated with cross-functional teams to collect factory requirements and translate them into technical solutions, leading to significant improvements in the user experience for a base of 40 individuals. 
+          
   # Education
   education:
     enable: true
