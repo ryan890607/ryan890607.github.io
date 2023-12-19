@@ -270,6 +270,18 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/ryan890607/web-programming-final
+      - title: TOMOFUN Sound Classification AI Competition
+        content: Developed and deployed over 10 neural network models to classify diverse sounds into 11 distinct categories, incorporating advanced techniques such as data augmentation, time augmentation, and ensemble learning to optimize model performance. 
+                 Successfully executed real-time inference on an AWS web service, earning recognition as a top-10 finalist among 300+ participating teams.
+        image: NTUeat.png
+        badges:
+          - "Python"
+          - "Pytorch"
+          - "AMAZON EC2"
+          - "Flask"
+        links:
+          - icon: fa-solid fa-ranking-star
+            url: https://tbrain.trendmicro.com.tw/Competitions/Details/15
 
 
   #Contact
