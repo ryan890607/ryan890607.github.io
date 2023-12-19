@@ -188,7 +188,7 @@ params:
       #   content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "MIS Engigeer"
-        company: "TA FONG STEEL CO., LTD."
+        company: "Ta Fong Steel"
         companyUrl: "https://tafong.en.taiwantrade.com"
         date: "July 2023 - present"
         featuredLink:
@@ -196,10 +196,10 @@ params:
           name: "View the project"
           url: "https://example.com"
         info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
+          enable: true
+          content: Family Business
         content: |
-          I am currently working as a MIS engineer at [TA FONG STEEL CO.](https://tafong.en.taiwantrade.com) in Changhua County, Taiwan. 
+          I am currently working as a MIS engineer at [Ta Fong Steel](https://tafong.en.taiwantrade.com) in Changhua County, Taiwan. 
           I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
