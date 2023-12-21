@@ -274,7 +274,7 @@ params:
       - title: TOMOFUN Sound Classification AI Competition
         content: Developed and deployed over 10 neural network models to classify diverse sounds into 11 distinct categories, incorporating advanced techniques such as data augmentation, time augmentation, and ensemble learning to optimize model performance. 
                  Successfully executed real-time inference on an AWS web service, earning recognition as a top-10 (No. 9) finalist among 300+ participating teams.
-        # image: NTUeat.png
+        image: AI_comp.pdf
         badges:
           - "Python"
           - "Pytorch"
