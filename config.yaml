@@ -262,7 +262,7 @@ params:
         content: The web development of a food review forum, leveraging React as the primary frontend framework and Node.js as the backend framework.
         image: NTUeat.png
         featured:
-          name: Demo
+          name: Demo Video
           link: https://www.youtube.com/watch?v=1--dj9WnDDk
         badges:
           - "React"
