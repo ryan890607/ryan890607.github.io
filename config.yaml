@@ -286,7 +286,7 @@ params:
             url: https://tbrain.trendmicro.com.tw/Competitions/Details/15
       - title: Side-Scrolling Battle Game
         content: Conceptualized and implemented a 2D side-scrolling game using Java, featuring a software design that prioritizes flexibility and adheres to the open-closed principle.
-        image: NTUeat.png
+        image: game_screen.png
         badges:
           - "Java"
           - "OOP"
