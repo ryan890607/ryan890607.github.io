@@ -278,6 +278,7 @@ params:
         badges:
           - "Python"
           - "Pytorch"
+          - "Deep Learning"
           - "AMAZON EC2"
           - "Flask"
         links:
